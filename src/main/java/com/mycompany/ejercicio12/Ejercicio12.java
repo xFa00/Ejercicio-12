@@ -28,7 +28,7 @@ public class Ejercicio12 {
         
         System.out.println("Su salario bruto es: "+salarioBruto);
         System.out.println("Su salario neto es: "+salarioNeto);
-        System.out.println("La retencion en la fuente es de : "+retencion);
+        System.out.println("La retencion en la fuente es de: "+retencion);
         
     }
 }
